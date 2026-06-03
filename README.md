@@ -2,6 +2,10 @@
 
 Next.js練習の続き(天気チェックアプリ)
 
+## 目的
+
+外部APIとの連携を学ぶ
+
 ## デモ
 
 https://nextjs-weather-app-ruby.vercel.app/
